@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+Hello, my name is Florian Zimmermeister and I come from a small town in North Rhine-Westphalia, Germany.
+
+I am passionate about speech recognition, both to provide more accessibility for people with disabilities and to make the value of audio data available to everyone by making it high quality transcribed, translated and searchable. For this, I train open models, work on training algorithms and datasets. As of today (03/21/2023), I am one of the top 20 most active listeners and top 50 most active speakers for the German Commonvoice dataset.
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=flozi00)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozi00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
