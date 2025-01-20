@@ -22,10 +22,15 @@ Certificates:
  - Reference letter for Voluntary work in the field of IT security and analysis
 
 2023:
- - Nvidia Ceritificates
+ - Nvidia Ceritificates (https://github.com/flozi00/flozi00/tree/main/assets/2023)
 
 2024:
- - Nvidia Certificates
+ - Nvidia Certificates (https://github.com/flozi00/flozi00/tree/main/assets/2024)
+
+Some other projects to mention:
+Joined OTC project with the A\\Ware Voice Assistant, short AVA, a local and data protective voice assistant for usage in health care. Developed with and for helath care institution
+Contactless check in during Covid-19 pandemic with the Open Telekom Cloud (https://www.linkedin.com/posts/telekomtechboostprogramm_kontaktloser-besucher-check-in-der-neue-activity-6712304055760257024-dunT?utm_source=share&utm_medium=member_desktop)
+
 <!--
 **flozi00/flozi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
