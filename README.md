@@ -16,6 +16,16 @@ Other open source contributions:
  - December 2024: 20x smaller ASR model matching performance of whisper medium for german speech recognition (https://huggingface.co/primeline/whisper-tiny-german-1224)
  - End of 2024: More than 130k Downloads for the primeline/whisper-large-v3-german 
 
+
+Certificates:
+2019:
+ - Reference letter for Voluntary work in the field of IT security and analysis
+
+2023:
+ - Nvidia Ceritificates
+
+2024:
+ - Nvidia Certificates
 <!--
 **flozi00/flozi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
