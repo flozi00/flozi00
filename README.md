@@ -11,6 +11,7 @@
   - [aware-ai/wav2vec2-xls-r-1b-5gram-german](https://huggingface.co/aware-ai/wav2vec2-xls-r-1b-5gram-german)
   - [primeline/whisper-large-v3-turbo-german](https://huggingface.co/primeline/whisper-large-v3-turbo-german)
   - [primeline/whisper-large-v3-german](https://huggingface.co/primeline/whisper-large-v3-german)
+  - [Mentioned by Hajo Nils Krabbenhoft](https://arxiv.org/pdf/2206.12693)
 - Top 20 most active listeners and top 50 most active speakers for the German Commonvoice dataset (as of 21.03.2023)
 - Global Top 100 data collectors in the Open Assistant project (as of 11.05.2023)
 - Global Top 50 data collectors in the Open Assistant project (as of 11.06.2023)
