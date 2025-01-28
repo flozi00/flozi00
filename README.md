@@ -21,13 +21,17 @@
 - Over 130k downloads for the primeline/whisper-large-v3-german model by end of 2024
 
 ### Certificates
-- 2019: Reference letter for Voluntary work in the field of IT security and analysis
+- Reference letter for Voluntary work in the field of IT security and analysis
 - 2023: [Nvidia Certificates](https://github.com/flozi00/flozi00/tree/main/assets/2023)
 - 2024: [Nvidia Certificates](https://github.com/flozi00/flozi00/tree/main/assets/2024)
 
 ### Projects
+- 2017 - 2019 Doing some voluntary pentesting projects during school time
+- 2019 founding A\\\\Ware
+- 2020 - Developed an (to that time) open source Voice Assistant and the A\\\\Ware Skill Server
 - Joined OTC project with the A\\\\Ware Voice Assistant (AVA), a local and data-protective voice assistant for healthcare institutions
 - Developed a contactless check-in system during the Covid-19 pandemic with the Open Telekom Cloud: [LinkedIn Post](https://www.linkedin.com/posts/telekomtechboostprogramm_kontaktloser-besucher-check-in-der-neue-activity-6712304055760257024-dunT?utm_source=share&utm_medium=member_desktop)
+- 2023 joined primeLine Solutions and started the primeLine AI services
 
 ### Contact
 - [GitHub Profile](https://github.com/flozi00/flozi00)
