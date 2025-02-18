@@ -29,9 +29,9 @@
 - 2017 - 2019 Doing some voluntary pentesting projects during school time
 - 2018 - real-time text recognition android app for ingredient detection on android (zoeli scan)
 - 2019 founding A\\\\Ware
-- 2020 - Developed an (to that time) open source Voice Assistant and the A\\\\Ware Skill Server
+- 2019/2020 - Developed an (to that time) open source Voice Assistant and the A\\\\Ware Skill Server
 - Joined OTC project with the A\\\\Ware Voice Assistant (AVA), a local and data-protective voice assistant for healthcare institutions
-- Developed a contactless check-in system during the Covid-19 pandemic with the Open Telekom Cloud: [LinkedIn Post](https://www.linkedin.com/posts/telekomtechboostprogramm_kontaktloser-besucher-check-in-der-neue-activity-6712304055760257024-dunT?utm_source=share&utm_medium=member_desktop)
+- Developed a contactless check-in system (one of its first at the time) during the Covid-19 pandemic with the Open Telekom Cloud: [LinkedIn Post](https://www.linkedin.com/posts/telekomtechboostprogramm_kontaktloser-besucher-check-in-der-neue-activity-6712304055760257024-dunT?utm_source=share&utm_medium=member_desktop)
 - 2023 joined primeLine Solutions and started the primeLine AI services
 
 ### Contact
