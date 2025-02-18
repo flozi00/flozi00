@@ -27,6 +27,7 @@
 
 ### Projects
 - 2017 - 2019 Doing some voluntary pentesting projects during school time
+- 2018 - real-time text recognition android app for ingredient detection on android (zoeli scan)
 - 2019 founding A\\\\Ware
 - 2020 - Developed an (to that time) open source Voice Assistant and the A\\\\Ware Skill Server
 - Joined OTC project with the A\\\\Ware Voice Assistant (AVA), a local and data-protective voice assistant for healthcare institutions
