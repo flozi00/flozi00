@@ -24,6 +24,7 @@
 - Reference letter for Voluntary work in the field of IT security and analysis
 - 2023: [Nvidia Certificates](https://github.com/flozi00/flozi00/tree/main/assets/2023)
 - 2024: [Nvidia Certificates](https://github.com/flozi00/flozi00/tree/main/assets/2024)
+- 2025: [Nvidia Certificates](https://github.com/flozi00/flozi00/tree/main/assets/2025)
 
 ### Projects
 - 2017 - 2019 Doing some voluntary pentesting projects during school time
