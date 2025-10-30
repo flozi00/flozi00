@@ -38,4 +38,3 @@
 ### Contact
 - [GitHub Profile](https://github.com/flozi00/flozi00)
 - [Huggingface Profile](https://huggingface.co/flozi00)
-- [LinkedIn Profile](https://www.linkedin.com/in/florian-zimmermeister-83bb331ab)
